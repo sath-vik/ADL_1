@@ -1,0 +1,8 @@
+results/*
+!results/.gitkeep
+*.pyc
+*.pth
+*.json
+__pycache__/
+data/
+*.zip
