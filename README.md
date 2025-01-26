@@ -7,8 +7,8 @@ This repository implements deep learning models (ResNet50 and MobileNetV3) for c
 - **Zero-Shot Evaluation**
 ## Setup
 ```bash=
-git clone <this repor url>
-cd <>
+git clone https://github.com/sath-vik/ADL_1
+cd ADL_1
 bash download_dataset.sh
 cd data
 unzip fetal-head-abnormalities-classification.zip
